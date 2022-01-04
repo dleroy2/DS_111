@@ -1,4 +1,8 @@
-# DS_111
+# Data Science and Analytics Portfolio
+
 ## SQL
+
 ## Statistics
+
 ## Visual Communications
+
